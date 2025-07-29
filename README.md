@@ -54,3 +54,23 @@ def Ambiciones():
 <a href="https://github.com/Aocheng01"><img alt="Github" title="Aocheng Ye Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:aocheng05@gmail.com"><img alt="Gmail" title="Aocheng Ye Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<h2 style="color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 5px;">📁 Proyectos Destacados</h2>
+
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="padding: 10px; vertical-align: top; width: 50%;">
+      <h3 style="color: #343a40; margin-bottom: 0.5em; font-size: 1.2em;">🥗 RecetApp</h3>
+      <img src="https://github.com/Aocheng01/RecetApp/blob/main/images/recetapp_preview.png?raw=true" alt="Captura de RecetApp" style="max-width: 90%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <br><br>
+      <a href="img/RecetApp.png?raw=true" target="_blank" style="display: inline-block; background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">🔗 Ver Repositorio</a>
+    </td>
+    <td style="padding: 10px; vertical-align: top; width: 50%;">
+      <h3 style="color: #343a40; margin-bottom: 0.5em; font-size: 1.2em;">🎰 Gestión de Casino</h3>
+      <img src="img/Casino.png?raw=true" alt="Captura de Gestión de Casino" style="max-width: 90%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <br><br>
+      <a href="https://github.com/Aocheng01/CasinoApp" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">🔗 Ver Repositorio</a>
+    </td>
+  </tr>
+</table>
+
