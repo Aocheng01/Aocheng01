@@ -11,7 +11,7 @@ class QuienSoy:
      'GYM', 
      'Videojuegos', 
      'Cubo de Rubik' 
- ] 
+  ]  
  
 def getUbicacion(): 
    return "Albacete, España (Nacido en China, residente en España desde los 6-7 años)" 
